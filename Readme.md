@@ -16,6 +16,8 @@ npm install
 node server.js
 ```
 
+3. Need to run it using pm2
+
 You can browse the apis at <http://localhost:3000>
 
 ## Tutorial
